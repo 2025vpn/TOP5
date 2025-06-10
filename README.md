@@ -17,18 +17,6 @@
 
 ---
 
-## 科学上网客户端推荐
-
-* **Windows:** [Clsah Verge](https://iheikeji.com/bgfw/tools/clash-verge.html) / [Clash for Windows](https://iheikeji.com/bgfw/tools/clash-for-windows.html) / [v2rayN](https://iheikeji.com/bgfw/tools/v2rayn.html) / WinXray / NekoRay / sing-box
-* **macOS:** [Clsah Verge](https://iheikeji.com/bgfw/tools/clash-verge.html)  / [Clash for Windows](https://iheikeji.com/bgfw/tools/clash-for-windows.html) / ClashX / ClashX Pro / [Stash](https://iheikeji.com/bgfw/tools/stash%e6%95%99%e7%a8%8b.html) / V2rayU / [Quantumult X](https://iheikeji.com/bgfw/tools/quantumult-x.html) / sing-box
-* **iOS:** [Shadowrocket](https://iheikeji.com/bgfw/tools/shadowrocket.html) / Quantumult_ / [Quantumult X](https://iheikeji.com/bgfw/tools/quantumult-x.html) / [Stash](https://iheikeji.com/bgfw/tools/stash%e6%95%99%e7%a8%8b.html) / Potatso Lite / sing-box
-* **Android:** v2rayNG / [Clash for Android](https://iheikeji.com/bgfw/tools/clash-for-android.html) / NekoBox for Android / sing-box / Surfboard
-* **Linux:** [Clsah Verge](https://iheikeji.com/bgfw/tools/clash-verge.html)  / [Clash for Windows](https://iheikeji.com/bgfw/tools/clash-for-windows.html) / NekoRay / sing-box
-* **路由器:** OpenClash / PassWall2 / ShadowsocksR Plus+
-
-
----
-
 ![](https://www.cnvintage.org/assets/files/2024-12-30/1735574162-817901-vpn.png)
 ---
 
@@ -46,14 +34,14 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 尔湾云官网
 
-[尔湾云最新官网](https://go.1vpn.cc/ewan)
+[尔湾云最新官网](https://affg.cc/ewan)
 
 #### 尔湾云套餐价格
 
 |尔湾云|付款周期|价格|每月流量|同时在线数量|
 | --- | --- | --- | --- | --- |
-|入门版|按月付|13.90|50 GB|1|
-|基础版|按月付|18.99|100 GB|2|
+|入门版|按月付|13.90|100 GB|2|
+|基础版|按月付|18.99|150 GB|2|
 |标准版|按月付|25.99|200 GB|3|
 |高级版|按月付|35.99|350 GB|5|
 |旗舰版|按月付|49.99|600 GB|8|
@@ -74,7 +62,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，不限宽带�
 
 #### 耐思云官网
 
-[耐思云最新官网](https://go.1vpn.cc/nisi)
+[耐思云最新官网](https://affg.cc/nisi)
 
 #### 耐思云套餐价格
 
@@ -100,7 +88,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，不限宽带�
 
 #### 疾风云官网
 
-[疾风云最新官网](https://go.1vpn.cc/jife)
+[疾风云最新官网](https://affg.cc/jife)
 
 #### 疾风云套餐价格
 
@@ -128,7 +116,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持，支持支付�
 
 #### 优信云官网
 
-[优信云最新官网](https://go.1vpn.cc/uxin)
+[优信云最新官网](https://affg.cc/uxin)
 
 #### 优信云套餐价格
 
@@ -155,7 +143,7 @@ Netflix、Disney+等国外流媒体平台和ChatGPT解锁支持。
 
 #### 速云梯官网
 
-[速云梯最新官网](https://go.1vpn.cc/suyu)
+[速云梯最新官网](https://affg.cc/suyu)
 
 #### 速云梯套餐价格
 
@@ -183,7 +171,7 @@ Soda苏打云机场是一家成立于2022年的翻墙机场，采用流行的Sha
 
 #### 苏打云机场官网
 
-[苏打云机场最新官网](https://go.1vpn.cc/soda)
+[苏打云机场最新官网](https://affg.cc/soda)
 
 #### 苏打云机场套餐价格
 
@@ -208,7 +196,7 @@ CyberGuard机场除常规月付套餐，也提供不限时长的按量付费流�
 
 #### CyberGuard机场官网
 
-[CyberGuard机场最新官网](https://go.1vpn.cc/cybg)
+[CyberGuard机场最新官网](https://affg.cc/cybg)
 
 #### CyberGuard机场套餐价格
 
